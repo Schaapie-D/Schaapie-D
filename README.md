@@ -9,12 +9,15 @@ I enjoy experimenting and creating random projects whenever something interestin
 
 ## Languages & Technologies
 - **C#** / **.NET**
+- **Rust** (Beginner - Intermediate)
 - **HTML**, **CSS**, **JavaScript**
-- **XAML**
-- **Unity**
 - **.NET MAUI**
+- **Unity**
 
-Currently want to learn: **C++** or **Rust**
+## What i'm interested in learning
+- **Real-time Graphics & Rendering**
+- **Rust**
+- **C** and **C++**
 
 ---
 
